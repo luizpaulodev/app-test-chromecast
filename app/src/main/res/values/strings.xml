@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestChromecast</string>
+    <string name="app_id">app_id</string>
+</resources>
